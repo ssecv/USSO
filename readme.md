@@ -117,8 +117,6 @@ This project is built upon the foundational work of several outstanding open-sou
 
 ---
 
-Would you like me to translate this section into Chinese, or are there any other projects you would like to include in the acknowledgments?
-
 If you find this work useful, please consider citing our paper:
 
 ```bibtex
