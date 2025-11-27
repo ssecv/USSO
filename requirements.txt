@@ -1,0 +1,15 @@
+cython
+scipy
+shapely
+timm
+h5py
+submitit
+scikit-image
+scikit-image
+numpy
+kornia==0.5.6
+pycocotools
+torch_dct
+seaborn
+git+https://github.com/facebookresearch/detectron2.git
+git+https://github.com/stevewongv/InstanceShadowDetection.git#subdirectory=PythonAPI
